@@ -1,5 +1,7 @@
 # marketsim
 
+What might grow into a paper trading tool.
+
 ## Project setup
 ```
 yarn install
